@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shamsiddin 👋</h1>
+<h1 align="center">Hi, I'm Shamsiddin</h1>
 <h3 align="center">Backend Developer — Node.js & NestJS</h3>
 
 <p align="center">
@@ -7,18 +7,19 @@ I build backend systems and APIs with Node.js and NestJS — from database desig
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" alt="Frontend" /></p>
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="Frontend" /></p>
 
 Technologies
 * HTML5
 * CSS3
+* JavaScript (ES6+)
 * Bootstrap
 * Tailwind CSS
 
-**Backend**
+### Backend
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts" alt="Backend" /></p>
 
 Technologies
@@ -26,44 +27,67 @@ Technologies
 * Express.js
 * NestJS
 * REST API Development
+* JWT Authentication
+* OAuth
+* Socket.IO
+* WebSocket
+* File Upload
+* Email Services
+* Cron Jobs
+* MVC Architecture
+* Clean Architecture
+* Repository Pattern
 
-**Databases**
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" alt="Databases" /></p>
+### Databases
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" alt="Databases" /></p>
 
-Technologies
-* PostgreSQL
 * MySQL
+* PostgreSQL
 * MongoDB
-* Redis
 * Prisma ORM
 
-**Messaging & Real-time**
-<p><img src="https://skillicons.dev/icons?i=rabbitmq,socketio" alt="Messaging" /></p>
+### Automation & Bots
 
-Technologies
-* RabbitMQ
-* Socket.io / WebSockets
+* Telegram Bots
+* Discord Bots
+* API Integrations
+* Payment Integrations
+* Scheduled Tasks
+* Webhooks
+* Notification Systems
+* Real-Time Applications
+* Automation Scripts
 
-**Tools & DevOps**
-<p><img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux" alt="Tools" /></p>
+### Dev Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Dev Tools" /></p>
 
-Technologies
-* Docker
-* Git & GitHub
+* Git
+* GitHub
+* VS Code
 * Postman
-* Linux
+* Docker
 
 ---
 
-### 🧠 Software Engineering
+## Software Engineering
+
+I enjoy working with:
 
 * Clean Code
 * SOLID Principles
 * Design Patterns
+* MVC Architecture
+* Modular Architecture
+* Secure Authentication
+* Database Design
+* API Design
+* Performance Optimization
+* Scalability
+* Code Reusability
 
 ---
 
-### 📌 Projects
+## Projects
 
 **[MeduzaAI](https://github.com/shamsiddin-devv/meduzaai)** — AI-powered patient queue & clinic CRM
 A system that reduces wasted time in hospital waiting rooms. On arrival, the patient is directed to a QR code for their doctor; scanning it opens a web app where an AI assistant asks the patient about their symptoms — like a doctor's intake interview — before they're even seen. This gives doctors 80–90% of the diagnostic context upfront, saving consultation time for both sides. Patients are notified via a connected Telegram bot when their turn is close (matched and verified by phone number), and doctors get a dashboard with the full pre-collected patient history.
