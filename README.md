@@ -55,6 +55,8 @@ Technologies
 * MongoDB
 * Prisma ORM
 
+---
+
 ### Automation & Bots
 
 * Telegram Bots
