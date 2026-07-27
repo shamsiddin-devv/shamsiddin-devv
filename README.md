@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer — Node.js & NestJS</h3>
 
 <p align="center">
-I build backend systems and APIs with Node.js and NestJS — from database design and authentication to deployment. I'm especially interested in products that solve real operational problems, like reducing wait times or connecting people to opportunities faster.
+Backend developer focused on building scalable APIs and server-side systems with Node.js and NestJS. I care about solving real operational problems through clean, maintainable code — from cutting patient wait times to helping people find work faster.
 </p>
 
 ---
@@ -26,6 +26,7 @@ Technologies
 * Node.js
 * Express.js
 * NestJS
+* TypeScript
 * REST API Development
 * JWT Authentication
 * OAuth
@@ -46,6 +47,7 @@ Technologies
 * MongoDB
 * Prisma ORM
 
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" alt="Databases" /></p>
 ### Automation & Bots
 
 * Telegram Bots
