@@ -78,7 +78,6 @@ Technologies
 
 ---
 
-</details>
 
 ## Software Engineering
 
@@ -97,6 +96,7 @@ I enjoy working with:
 * Code Reusability
 
 ---
+</details>
 
 ## Projects
 
