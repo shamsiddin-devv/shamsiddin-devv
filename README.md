@@ -1,15 +1,16 @@
 <h1 align="center">Hi, I'm Shamsiddin</h1>
 <h3 align="center">Backend Developer (Node.js)</h3>
+
 ---
 
 ## About Me
 
 <p align="start">
-I'm also intentional about how I grow as a developer — leaning on clean architecture and good design principles so my projects don't just work today, but stay maintainable long-term.
+Backend developer focused on building scalable APIs and server-side systems with Node.js and NestJS...
 </p>
 
 <p align="start">
-Growth is a big part of how I work — I try to apply clean architecture and solid engineering practices to every project, so what I build today doesn't become a problem tomorrow.
+Growth is a big part of how I work — I'm intentional about applying clean architecture and solid design principles...
 </p>
 
 ---
