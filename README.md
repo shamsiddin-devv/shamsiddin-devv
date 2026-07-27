@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Shamsiddin</h1>
 <h3 align="center">Backend Developer (Node.js)</h3>
-
 ---
 
 ## About Me
