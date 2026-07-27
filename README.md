@@ -1,4 +1,4 @@
-<h1 align="start">Hi, I'm Shamsiddin</h1><h3 align="start">Backend Developer (Node.js)</h3>
+<h1 align="start">Hi, I'm Shamsiddin Backend Developer (Node.js)</h1>
 
 ## About Me
 
