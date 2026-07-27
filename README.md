@@ -57,7 +57,7 @@ Technologies
 
 ---
 
-### Automation & Bots
+## Automation & Bots
 
 * Telegram Bots
 * Discord Bots
