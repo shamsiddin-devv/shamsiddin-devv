@@ -98,17 +98,6 @@ I enjoy working with:
 ---
 </details>
 
-## Projects
-
-**[MeduzaAI](https://github.com/shamsiddin-devv/meduzaai)** — AI-powered patient queue & clinic CRM
-A system that reduces wasted time in hospital waiting rooms. On arrival, the patient is directed to a QR code for their doctor; scanning it opens a web app where an AI assistant asks the patient about their symptoms — like a doctor's intake interview — before they're even seen. This gives doctors 80–90% of the diagnostic context upfront, saving consultation time for both sides. Patients are notified via a connected Telegram bot when their turn is close (matched and verified by phone number), and doctors get a dashboard with the full pre-collected patient history.
-`NestJS` `PostgreSQL` `Telegram Bot API` `AI/LLM integration`
-🔗 [meduzaai.uz](https://meduzaai.uz) *(currently offline — hosting paused)*
-
-**[Job Board](https://github.com/shamsiddin-devv/job-board)** — Two-sided job marketplace
-Unlike platforms such as hh.uz, where only companies can post vacancies, this platform lets both companies and individual workers post listings — letting job seekers advertise their own availability and skills directly, not just apply to postings.
-`NestJS` `PostgreSQL` `REST API`
-
 ---
 
 <p align="center">
