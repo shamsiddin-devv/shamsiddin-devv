@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shamsiddin</h1>
 <h3 align="center">Backend Developer — Node.js & NestJS</h3>
 
-<p>
+<p align='start'>
 Backend developer focused on building scalable APIs and server-side systems with Node.js and NestJS. I care about solving real operational problems through clean, maintainable code — from cutting patient wait times to helping people find work faster.
 </p>
 
