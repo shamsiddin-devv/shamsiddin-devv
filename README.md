@@ -16,7 +16,7 @@ I love solving real-world problems through clean architecture, efficient code, a
 ---
 
 <details>
-## Tech Stack
+<summary><h2>Tech Stack</h2></summary>
 
 ### Frontend
 <p><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="Frontend" /></p>
