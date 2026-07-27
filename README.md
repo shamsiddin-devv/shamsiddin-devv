@@ -12,7 +12,7 @@ Backend developer focused on building scalable APIs and server-side systems with
 ### Frontend
 <p><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="Frontend" /></p>
 
-Technologies
+**Technologies**
 * HTML5
 * CSS3
 * JavaScript (ES6+)
@@ -22,7 +22,7 @@ Technologies
 ### Backend
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts" alt="Backend" /></p>
 
-Technologies
+**Technologies**
 * Node.js
 * Express.js
 * NestJS
