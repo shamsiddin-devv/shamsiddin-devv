@@ -15,6 +15,7 @@ I love solving real-world problems through clean architecture, efficient code, a
 
 ---
 
+<details>
 ## Tech Stack
 
 ### Frontend
@@ -79,6 +80,8 @@ Technologies
 * Docker
 
 ---
+
+</details>
 
 ## Software Engineering
 
