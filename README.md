@@ -1,21 +1,28 @@
 <h1 align="center">Shamsiddin</h1>
-<h3 align="center">Backend Developer — Node.js & NestJS</h3>
-
-<p align="center">
-  <a href="https://t.me/shamsiddin_devv"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="28" height="28" alt="Telegram" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shamsiddindev"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:xamroqulovsh7@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="28" height="28" alt="Email" /></a>
-</p>
+<h3 align="center">Backend Developer — NestJS</h3>
 
 <p align="center">
 I build backend systems and APIs with Node.js and NestJS — from database design and authentication to deployment. I'm especially interested in products that solve real operational problems, like reducing wait times or connecting people to opportunities faster.
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,prisma,postgres,mysql,mongodb,redis,rabbitmq,socketio,docker,git,github,postman,linux" alt="Tech Stack" />
-</p>
+---
+
+### 🛠️ Technologies
+
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=js,ts" alt="Languages" /></p>
+
+**Frameworks**
+<p><img src="https://skillicons.dev/icons?i=nestjs,express,socketio" alt="Frameworks" /></p>
+
+**Databases**
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" alt="Databases" /></p>
+
+**Messaging**
+<p><img src="https://skillicons.dev/icons?i=rabbitmq" alt="Messaging" /></p>
+
+**Tools & DevOps**
+<p><img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux" alt="Tools" /></p>
 
 ---
 
@@ -32,4 +39,6 @@ Unlike platforms such as hh.uz, where only companies can post vacancies, this pl
 
 ---
 
-<p align="center"><sub>Open to backend collaboration and new opportunities.</sub></p>
+<p align="center">
+<a href="mailto:xamroqulovsh7@gmail.com">Email</a> · <a href="https://t.me/shamsiddin_devv">Telegram</a> · <a href="https://www.linkedin.com/in/shamsiddindev">LinkedIn</a>
+</p>
