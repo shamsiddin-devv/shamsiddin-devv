@@ -47,9 +47,8 @@ Technologies
 * MongoDB
 * Prisma ORM
 
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" alt="Databases" /></p>
+---
 ### Automation & Bots
-
 * Telegram Bots
 * Discord Bots
 * API Integrations
