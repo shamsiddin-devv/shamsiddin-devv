@@ -6,11 +6,11 @@
 ## About Me
 
 <p align="start">
-Backend developer focused on building scalable APIs and server-side systems with Node.js and NestJS...
+I'm a passionate Backend Node.js Developer who enjoys building scalable backend systems, REST APIs, automation tools, and business solutions — from Telegram bots to full backend platforms.
 </p>
 
 <p align="start">
-Growth is a big part of how I work — I'm intentional about applying clean architecture and solid design principles...
+I love solving real-world problems through clean architecture, efficient code, and maintainable software, and I'm always working to grow as an engineer. My goal is to create reliable applications that are secure, fast, and easy to scale.
 </p>
 
 ---
