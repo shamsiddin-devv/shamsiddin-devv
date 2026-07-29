@@ -14,13 +14,11 @@
 
 ## About Me
 
-<p align="start">
-I'm a passionate Backend Node.js Developer who enjoys building scalable backend systems, REST APIs, automation tools, and business solutions — from Telegram bots to full backend platforms.
-</p>
+Backend Developer with a strong interest in designing scalable and maintainable backend systems.
 
-<p align="start">
-I love solving real-world problems through clean architecture, efficient code, and maintainable software, and I'm always working to grow as an engineer. My goal is to create reliable applications that are secure, fast, and easy to scale.
-</p>
+I primarily work with **Node.js**, **NestJS**, **PostgreSQL**, and **Prisma**, building REST APIs, real-time applications, automation platforms, and AI-integrated solutions.
+
+I believe great backend software isn't just about making features work—it's about creating systems that remain reliable, secure, and easy to extend as products grow.
 
 ---
 
