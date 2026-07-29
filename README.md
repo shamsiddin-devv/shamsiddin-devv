@@ -1,4 +1,16 @@
-<h1 align="start">Hi, I'm Shamsiddin Backend Developer (Node.js)</h1>
+<h1 align="center">
+  Hi, I'm Shamsiddin 👋
+</h1>
+
+<p align="center">
+  Backend Developer specializing in Node.js & NestJS
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shamsiddin-devv&style=flat-square&color=blue" alt="Profile views" />
+</p>
+<p align="center">
+  Building scalable backend systems • REST APIs • AI-powered applications
+</p>
 
 ## About Me
 
