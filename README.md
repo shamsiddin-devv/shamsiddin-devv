@@ -84,7 +84,7 @@ Unlike traditional job platforms where only companies publish vacancies, Job Boa
 `NestJS` `PostgreSQL` `Prisma` `Redis` `Docker` `Cloudinary`
 
 **Repository**
-- https://github.com/shamsiddin-devv/job-board
+- **[Job Board](https://github.com/shamsiddin-devv/job-board)**
 
 ---
 
