@@ -88,8 +88,6 @@ Unlike traditional job platforms where only companies publish vacancies, Job Boa
 
 ---
 
----
-
 ## GitHub Stats
 
 <p align="center">
