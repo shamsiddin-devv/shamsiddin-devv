@@ -88,24 +88,19 @@ Unlike traditional job platforms where only companies publish vacancies, Job Boa
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=shamsiddin-devv&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
-  />
-
-  <img
-    width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shamsiddin-devv&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=shamsiddin-devv&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"
+    width="48%"
   />
 </p>
 
 <p align="center">
   <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=shamsiddin-devv&theme=transparent&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shamsiddin-devv&theme=github-dark&hide_border=true&bg_color=00000000"
+    width="100%"
   />
 </p>
 
