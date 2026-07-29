@@ -31,16 +31,60 @@ I believe great backend software isn't just about making features work—it's ab
 
 ---
 
-## Projects
+## Featured Projects
 
-**[MeduzaAI](https://github.com/shamsiddin-devv/meduzaai)** — AI-powered patient queue & clinic CRM
-A system that reduces wasted time in hospital waiting rooms. On arrival, the patient is directed to a QR code for their doctor; scanning it opens a web app where an AI assistant asks the patient about their symptoms — like a doctor's intake interview — before they're even seen. This gives doctors 80–90% of the diagnostic context upfront, saving consultation time for both sides. Patients are notified via a connected Telegram bot when their turn is close (matched and verified by phone number), and doctors get a dashboard with the full pre-collected patient history.
-`NestJS` `PostgreSQL` `Prisma` `Socket` `Cloudinary` `Grammy.js` `AI/LLM integration`
-🔗 [meduzaai.uz](https://meduzaai.uz) *(currently offline — hosting paused)*
+### 🏥 MeduzaAI
 
-**[Job Board](https://github.com/shamsiddin-devv/job-board)** — Two-sided job marketplace
-Unlike platforms such as hh.uz, where only companies can post vacancies, this platform lets both companies and individual workers post listings — letting job seekers advertise their own availability and skills directly, not just apply to postings.
-`NestJS` `PostgreSQL` `Prisma` `Redis` `Docker` `CI/CD` `Cloudinary`
+> AI-powered patient queue management and clinic CRM platform.
+
+MeduzaAI is designed to improve the hospital experience for both patients and doctors. Before entering the consultation room, patients scan a QR code and complete an AI-assisted medical interview. The collected information is then presented to the doctor, providing valuable clinical context before the appointment begins.
+
+The platform also includes real-time queue management, Telegram notifications, doctor dashboards, and secure patient data management.
+
+#### Key Features
+
+- 🤖 AI-assisted patient intake
+- 📱 QR code based patient flow
+- 🔔 Telegram queue notifications
+- 👨‍⚕️ Doctor dashboard
+- ⚡ Real-time updates with WebSockets
+- ☁️ Cloud image storage
+- 🔒 Secure authentication & authorization
+
+#### Tech Stack
+
+`NestJS` `PostgreSQL` `Prisma` `Socket.IO` `Cloudinary` `Grammy.js` `LLM Integration`
+
+**Repository**
+- https://github.com/shamsiddin-devv/meduzaai
+
+**Live Demo**
+- https://meduzaai.uz *(Hosting currently paused)*
+
+---
+
+### 💼 Job Board
+
+> A modern two-sided employment marketplace.
+
+Unlike traditional job platforms where only companies publish vacancies, Job Board allows both employers and job seekers to create listings. Companies can hire talent, while individuals can showcase their skills and availability, making recruitment more flexible.
+
+#### Key Features
+
+- 🏢 Company job postings
+- 👨‍💼 Worker profile listings
+- 📄 Job applications
+- 🔐 Authentication & role management
+- 📤 Image upload
+- ⚡ High-performance caching with Redis
+- 🐳 Dockerized deployment
+
+#### Tech Stack
+
+`NestJS` `PostgreSQL` `Prisma` `Redis` `Docker` `Cloudinary`
+
+**Repository**
+- https://github.com/shamsiddin-devv/job-board
 
 ---
 
