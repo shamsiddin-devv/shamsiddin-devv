@@ -6,10 +6,10 @@
   Backend Developer specializing in Node.js & NestJS
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamsiddin-devv&style=flat-square&color=blue" alt="Profile views" />
+  Building scalable backend systems • REST APIs • AI-powered applications
 </p>
 <p align="center">
-  Building scalable backend systems • REST APIs • AI-powered applications
+  <img src="https://komarev.com/ghpvc/?username=shamsiddin-devv&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ## About Me
