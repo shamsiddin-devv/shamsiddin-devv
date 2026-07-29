@@ -88,17 +88,6 @@ Unlike traditional job platforms where only companies publish vacancies, Job Boa
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shamsiddin-devv&theme=github-dark&hide_border=true&bg_color=00000000"
-    width="100%"
-  />
-</p>
-
----
-
 <details>
 <summary><h2>Tech Stack</h2></summary>
 
