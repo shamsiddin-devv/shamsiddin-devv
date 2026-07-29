@@ -56,10 +56,10 @@ The platform also includes real-time queue management, Telegram notifications, d
 `NestJS` `PostgreSQL` `Prisma` `Socket.IO` `Cloudinary` `Grammy.js` `LLM Integration`
 
 **Repository**
-- https://github.com/shamsiddin-devv/meduzaai
+- **[MeduzaAI](https://github.com/shamsiddin-devv/meduzaai)**
 
 **Live Demo**
-- https://meduzaai.uz *(Hosting currently paused)*
+- [meduzaai.uz](https://meduzaai.uz) *(Hosting currently paused)*
 
 ---
 
