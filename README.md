@@ -22,6 +22,15 @@ I believe great backend software isn't just about making features work—it's ab
 
 ---
 
+## Current Focus
+
+- Building production-ready backend systems
+- Designing scalable REST APIs
+- Exploring AI-powered backend solutions
+- Improving system design and software architecture
+
+---
+
 ## Projects
 
 **[MeduzaAI](https://github.com/shamsiddin-devv/meduzaai)** — AI-powered patient queue & clinic CRM
