@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi, I'm Shamsiddin 👋
 </h1>
-![Profile Views](https://komarev.com/ghpvc/?username=shamsiddin_devv&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 <p align="center">
   Backend Developer specializing in Node.js & NestJS
 </p>
